@@ -1,0 +1,48 @@
+body
+{
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    font-family: "Times New Roman";
+    font-size: 25px;
+
+    height: 100vh;
+    background-image: url("jungla.jpg");
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+section
+{
+    margin: 20px auto;
+    color: rgb(20, 5, 75);
+    background-color: #B7E0A6;
+    width: 500px;
+    border: 2px solid rgb(20, 5, 75);
+    border-radius: 10px;
+}
+#inputNume
+{
+    padding-top: 0.35%;
+    padding-bottom: 0.65%;
+}
+h1
+{
+    padding-top: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+span
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+canvas
+{
+    border: 4px solid rgb(20, 5, 75);
+    border-radius: 10px;
+}
+#spatiuSus
+{
+    padding-top: 1%;
+}
